@@ -1,7 +1,7 @@
 ﻿
 # get folder
-1.git clone "app" <br>
-2.git branch -a <br>
+1. git clone "app" <br>
+2. git branch -a <br>
 3. git checkout "dev" <br>
 
 # Parte de banco de dados (DBeaver)
@@ -23,5 +23,5 @@ python -m .venv
 
 # Criar api (ms) de usuário<br>
 12. Criar repositorio, schema, model e rota<br>
-13. Subir no git com gitigone<br>
+13. Subir no git com giticlone<br>
 14. Criar dockerfile<br>
