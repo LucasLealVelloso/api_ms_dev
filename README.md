@@ -2,7 +2,8 @@
 # Get folder
 1. git clone "app" <br>
 2. git branch -a <br>
-3. git checkout "dev" <br>
+3. git checkout "dev" <br
+4. cd api_ms_dev <br>
 
 # Parte de banco de dados (DBeaver)
 5. docker-compose up -d <br>
