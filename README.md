@@ -1,5 +1,5 @@
 ﻿
-# get folder
+# Get folder
 1. git clone "app" <br>
 2. git branch -a <br>
 3. git checkout "dev" <br>
